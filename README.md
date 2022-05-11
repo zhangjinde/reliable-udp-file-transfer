@@ -1,4 +1,4 @@
 # reliable-udp-file-transfer
 Custom file transfer protocol
 
-![alt text](http://github.com/hpzk/reliable-udp-file-transfer/img/1.png)
+![alt text](https://github.com/hpzk/reliable-udp-file-transfer/tree/main/img/1.png)
